@@ -267,7 +267,7 @@ class Application(Frame):
 
 root = Tk()
 root.title('Panther Calculator')
-root.iconbitmap('panther.ico')
+root.iconbitmap('images/panther.ico')
 # root = tk.ThemedTk()
 # root.get_themes() # Returns a list of all themes that can be set
 # print(root.get_themes())
