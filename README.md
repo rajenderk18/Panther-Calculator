@@ -1,9 +1,23 @@
-<a href="https://KumarRajender.com"><img src="https://github.com/rajenderk18/Panther-Calculator/blob/master/images/Panther_Calculator.png" title="Panther-Calculator" alt="FVCproductions" align="center"></a>
+
 
 
 # Panther-Calculator
 
 > This is the simplest calculator designed using Tkinter for Windows, Linux and OSX.
+
+&nbsp;
+
+<a href="https://KumarRajender.com"><img src="https://github.com/rajenderk18/Panther-Calculator/blob/master/images/Panther_Calculator.png" title="Panther-Calculator" alt="FVCproductions" align="center"></a>
+
+The calculator has the following keys: 0..9, ., +, -, *, /, //, %, =, ←, CE, exponent (^), square-root (√), pai (π), left Parenthesis, right Parenthesis. 
+In any situation the calculator produce a correct result defined by the well known arithmetic rules. We also include a new operator called Floor-Division (//) which provide the integer quotient after division and remove the decimal part. 
+
+If the calculations is impossible, the calculator will display information helping the user to resolve the erroneous situation, like:
+- On encountering a "division by 0", the display will show "Cannot divide by 0" and typing the key “CE” will reset the calculator.
+- On calculating the square root value of a negative operand, the display will read "Invalid Input".
+- On erroneous operand or operation keys the display will read “Invalid Input”. 
+- Of course, any situation can be cleared using the main reset key “CE”.
+
 
 ## Example 
 &nbsp;
@@ -30,7 +44,7 @@ You can use mouse click or keyboard key to press the key on the calculator inter
 
 ## Table of Contents 
 
-- [Installation](#installation)
+- [Getting Started](#getting-started)
 - [Building the Windows installer](#building-the-windows-installer)
 - [Features](#features)
 - [Usage](#usage) 
@@ -46,13 +60,15 @@ You can use mouse click or keyboard key to press the key on the calculator inter
 
 ---
 
-## Installation
+## Getting Started
+
+### Prerequisites
 
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/rajenderk18/Panther-Calculator.git`
 
-### Setup
+### Installing
 
 ---
 ## Building the Windows installer
