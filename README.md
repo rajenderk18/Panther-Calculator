@@ -14,6 +14,9 @@
 &nbsp;
 
 You can use mouse click or keyboard key to press the key on the calculator interface.
+&nbsp;
+
+&nbsp;
 
 
 
@@ -95,12 +98,21 @@ Reach out to me at one of the following places!
 
 - Website at <a href="http://KumarRajender.com" target="_blank">`KumarRajender.com`</a>
 - Email me: <a mailto: "rajenderk18@gmail.com"> `rajenderk18@gmail.com` </a>
+
+&nbsp;
+
+
 ---
 
 ## Donations
 
 - If you think this little calculator is useful to you, then it's a good reason to do a donation.
 - Your gratitude and financial help will motivate me to continue improving this an many other project development.
+
+&nbsp;
+
+&nbsp;
+
 
 | Payment Method | Payment Link |
 | --- | --- |
@@ -110,8 +122,15 @@ Reach out to me at one of the following places!
 | € Euros	 | ![€ Euros](https://user-images.githubusercontent.com/35782113/63217313-24a6e400-c112-11e9-8c54-a0d8ede0c0b9.png) |
 | ₹ (INR) |![INR](https://user-images.githubusercontent.com/35782113/63217311-24a6e400-c112-11e9-896d-debe0ce54dab.png) |
 
+&nbsp;
 
-[![Donate Now](https://user-images.githubusercontent.com/35782113/63217310-24a6e400-c112-11e9-9fb6-2d7f6ec2f143.jpg)
+&nbsp;
+
+<p align="center">
+  <img width="300" height="125" src="https://user-images.githubusercontent.com/35782113/63217310-24a6e400-c112-11e9-9fb6-2d7f6ec2f143.jpg">
+</p>
+
+
 
 
 ---
