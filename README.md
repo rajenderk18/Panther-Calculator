@@ -1,4 +1,4 @@
-<a href="https://KumarRajender.com"><img src="https://github.com/rajenderk18/Panther-Calculator/blob/master/images/Panther_Calculator.png" title="Panther-Calculator" alt="FVCproductions"></a>
+<a href="https://KumarRajender.com"><img src="https://github.com/rajenderk18/Panther-Calculator/blob/master/images/Panther_Calculator.png" title="Panther-Calculator" alt="FVCproductions" align="center"></a>
 
 
 # Panther-Calculator
@@ -31,11 +31,17 @@ You can use mouse click or keyboard key to press the key on the calculator inter
 ## Table of Contents 
 
 - [Installation](#installation)
+- [Building the Windows installer](#building-the-windows-installer)
 - [Features](#features)
+- [Usage](#usage) 
+- [Executable](#executable)
+- [To-do](#to-do)
+- [Documentation](#documentation)
+- [Tests](#tests)
 - [Contributing](#contributing)
 - [FAQ](#faq)
 - [Support](#support)
-- [Building the Windows installer](#building-the-windows-installer)
+- [Donations](#donations)
 - [License](#license)
 
 ---
@@ -47,6 +53,11 @@ You can use mouse click or keyboard key to press the key on the calculator inter
 - Clone this repo to your local machine using `https://github.com/rajenderk18/Panther-Calculator.git`
 
 ### Setup
+
+---
+## Building the Windows installer
+---
+
 ## Features
 - Version1.0
 - Cross-platform (can be used on any machine with any operating system.)
@@ -97,7 +108,7 @@ If interested, you can contribute by following the given step:
 Reach out to me at one of the following places!
 
 - Website at <a href="http://KumarRajender.com" target="_blank">`KumarRajender.com`</a>
-- Email me: <a mailto: "rajenderk18@gmail.com"> `rajenderk18@gmail.com` </a>
+- Email me: [rajenderk18@gmail.com](mailto:rajenderk18@gmail.com)
 
 &nbsp;
 
@@ -133,8 +144,7 @@ Reach out to me at one of the following places!
 
 
 
----
-## Building the Windows installer
+
 ---
 ## License
 
