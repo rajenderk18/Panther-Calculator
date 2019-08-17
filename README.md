@@ -7,7 +7,12 @@
 
 &nbsp;
 
-<a href="https://KumarRajender.com"><img src="https://github.com/rajenderk18/Panther-Calculator/blob/master/images/Panther_Calculator.png" title="Panther-Calculator" alt="FVCproductions" align="center"></a>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35782113/63217305-18228b80-c112-11e9-8691-b1aac19a10fa.png">
+</p>
+
 
 The calculator has the following keys: 0..9, ., +, -, *, /, //, %, =, ←, CE, exponent (^), square-root (√), pai (π), left Parenthesis, right Parenthesis. 
 In any situation the calculator produce a correct result defined by the well known arithmetic rules. We also include a new operator called Floor-Division (//) which provide the integer quotient after division and remove the decimal part. 
