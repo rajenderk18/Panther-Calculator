@@ -1,26 +1,38 @@
-<a href="https://github.com/rajenderk18/Panther-Calculator/blob/master/images/Panther_Calculator.png"><img src="https://github.com/rajenderk18/Panther-Calculator/blob/master/images/Panther_Calculator.png" title="Panther-Calculator" alt="FVCproductions"></a>
-![Calculator Interface](https://github.com/rajenderk18/Panther-Calculator/blob/master/images/Panther_Calculator.png)
+<a href="https://KumarRajender.com"><img src="https://github.com/rajenderk18/Panther-Calculator/blob/master/images/Panther_Calculator.png" title="Panther-Calculator" alt="FVCproductions"></a>
+
 
 # Panther-Calculator
 
 > This is the simplest calculator designed using Tkinter for Windows, Linux and OSX.
 
 ## Example 
+&nbsp;
 
-[![Calculator in use ](https://github.com/rajenderk18/Panther-Calculator/blob/master/images/snapshot_Panther_Calculator2.gif)]()
 
-![Calculator in use](https://github.com/rajenderk18/Panther-Calculator/blob/master/images/snapshot_Panther_Calculator3.gif)
+[![Calculator in use ](https://user-images.githubusercontent.com/35782113/63217308-18228b80-c112-11e9-9ecc-34ffa2aceda7.gif)]()
+
+&nbsp;
+
+You can use mouse click or keyboard key to press the key on the calculator interface.
+
+
+
+![Calculator in use](https://user-images.githubusercontent.com/35782113/63217309-18228b80-c112-11e9-9969-265061dae03c.gif)
+
+&nbsp;
+
+
 
 ---
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 - [Installation](#installation)
 - [Features](#features)
 - [Contributing](#contributing)
 - [FAQ](#faq)
 - [Support](#support)
-- [Building the Windows installer](#Building the Windows installer)
+- [Building the Windows installer](#building-the-windows-installer)
 - [License](#license)
 
 ---
@@ -82,6 +94,7 @@ If interested, you can contribute by following the given step:
 Reach out to me at one of the following places!
 
 - Website at <a href="http://KumarRajender.com" target="_blank">`KumarRajender.com`</a>
+- Email me: <a mailto: "rajenderk18@gmail.com"> `rajenderk18@gmail.com` </a>
 ---
 
 ## Donations
@@ -91,14 +104,14 @@ Reach out to me at one of the following places!
 
 | Payment Method | Payment Link |
 | --- | --- |
-| PayPal | ![PayPal](https://drive.google.com/file/d/1Va12atkDD3TrMYwWymaWLCBpY5ywrIdU/view?usp=sharing) |
-| Patreon | ![Patreon](https://drive.google.com/file/d/1f506ZClFtxd-TF0PmhYGA7ex9i3u2Eqe/view?usp=sharing) |
-| £ (GBP) |![£ (GBP)l](https://drive.google.com/file/d/1HfriN2kfbwuO6LaFErU5-yr09auV_0Qz/view?usp=sharing) |
-| € Euros	 | ![€ Euros](https://drive.google.com/file/d/1HfriN2kfbwuO6LaFErU5-yr09auV_0Qz/view?usp=sharing) |
-| ₹ (INR) |![INR](https://drive.google.com/file/d/1ieCrdLtp5hrjfPkgrknhSP_5j21LftZJ/view?usp=sharing) |
+| PayPal | ![PayPal](https://user-images.githubusercontent.com/35782113/63217312-24a6e400-c112-11e9-9eef-cc1a0bf69747.jpg) |
+| Patreon | ![Patreon](https://user-images.githubusercontent.com/35782113/63217315-253f7a80-c112-11e9-8aed-aa70e001c3d9.png) |
+| £ (GBP) |![£ (GBP)l](https://user-images.githubusercontent.com/35782113/63217313-24a6e400-c112-11e9-8c54-a0d8ede0c0b9.png) |
+| € Euros	 | ![€ Euros](https://user-images.githubusercontent.com/35782113/63217313-24a6e400-c112-11e9-8c54-a0d8ede0c0b9.png) |
+| ₹ (INR) |![INR](https://user-images.githubusercontent.com/35782113/63217311-24a6e400-c112-11e9-896d-debe0ce54dab.png) |
 
 
-[![Donate Now](https://drive.google.com/file/d/1HgWT2NtONoc37T7gZrrXx7CUKlX331FJ/view?usp=sharing)
+[![Donate Now](https://user-images.githubusercontent.com/35782113/63217310-24a6e400-c112-11e9-9fb6-2d7f6ec2f143.jpg)
 
 
 ---
