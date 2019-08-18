@@ -160,7 +160,7 @@ Reach out to me at one of the following places!
 &nbsp;
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35782113/63217310-24a6e400-c112-11e9-9fb6-2d7f6ec2f143.jpg">
+  <img width="300" height="125" src="https://user-images.githubusercontent.com/35782113/63217310-24a6e400-c112-11e9-9fb6-2d7f6ec2f143.jpg">
 </p>
 
 
