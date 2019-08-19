@@ -66,22 +66,41 @@ You can use mouse click or keyboard key to press the key on the calculator inter
 
 ### Prerequisites
 
+There is no specific requirement. This program should work fine with any installation of Python. Although, I used the following software (with their corresponding versions) to run this program:
+- Python 3.7.4
+
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/rajenderk18/Panther-Calculator.git`
 
-### Installing
+### Running the Calculator
+
+You can run the program by following the below commands:
+
+```
+$ git clone https://github.com/rajenderk18/Panther-Calculator.git
+$ cd Panther-Calculator
+$ chmod +x calculator.py
+$ ./calculator.py
+
+```
+or run the calculator.py using python in terminal or command prompt using below command:
+
+```
+python calculator.py
+```
+
 
 ---
 ## Building the Windows installer
 ---
 
 ## Features
-- Version1.0
+- Version 0.1
 - Cross-platform (can be used on any machine with any operating system.)
 - easy to use
 - supports common mathematical functions like (Division, Multiplication, Addition, Subtraction, Floor Division, Modulus Operator, Exponentiation and Square-root )
-- Supports undo and AC
+- Supports undo and clear screen
 ---
 
 ## Usage 
