@@ -38,9 +38,6 @@ You can use mouse click or keyboard key to press the key on the calculator inter
 &nbsp;
 
 
-
-![Calculator in use](https://user-images.githubusercontent.com/35782113/63217309-18228b80-c112-11e9-9969-265061dae03c.gif)
-
 &nbsp;
 
 
@@ -88,6 +85,9 @@ You can use mouse click or keyboard key to press the key on the calculator inter
 ---
 
 ## Usage 
+
+![Calculator in use](https://user-images.githubusercontent.com/35782113/63217309-18228b80-c112-11e9-9969-265061dae03c.gif)
+
 ## Executable
 ## To-do
   - [ ] Need to work on Scientific Calculator
@@ -96,6 +96,102 @@ You can use mouse click or keyboard key to press the key on the calculator inter
   - [ ] need to work on programmer calculator. 
  
 ## Documentation 
+
+### Making the layout of the calculator
+
+For making the layout of the calculator, I used the Tkinter widgets: "Entry" and "Frame". I used the "Entry", for taking input and showing the result. Frame is used to place all the buttons in the calculator. Tkinter provides three options to place the widgets in the window. These are called layout managers or geometry managers in python tkinter:
+   - pack
+   - grid
+   - place
+
+The three layout managers pack, grid, and place should never be mixed in the same master window! Geometry managers serve various functions. They:
+
+  -  arrange widgets on the screen
+  -  register widgets with the underlying windowing system
+  -  manage the display of widgets on the screen
+
+Arranging widgets on the screen includes determining the size and position of components. Widgets can provide size and alignment information to geometry managers, but the geometry managers has always the final say on the positioning and sizing. 
+
+I used Place geometry manager for placing the buttons in relative positions with frame. Each widget is placed with coordinates of its origin and an exact size. Place is used when the user has the ability to drag and move widgets around. 
+The Place geometry manager allows you explicitly set the position and size of a window, either in absolute terms, or relative to another window. The place manager can be accessed through the place method. It can be applied to all standard widgets.
+
+You can see the coordinates of the different buttons in the below pictures. Each button has 0.2 (times of Frame) width and height. We use the background color "White" (bg = white) for the number pad and SystemButtonFace color for the operations buttons.
+&nbsp;
+
+
+&nbsp;
+
+
+![Calculator Button Coordinates](https://user-images.githubusercontent.com/35782113/63300902-4eddda80-c2a7-11e9-8894-7e6ccc8229aa.png)
+
+&nbsp;
+
+
+&nbsp;
+
+
+### Binding functions to the buttons
+I created the layout of the calculator with all buttons and text box for entry of input and publishing result. But this is half work done. The main task of performing different operations is done by the function and to make this calculator useful and functional, we need to bind functions to the buttons. The main function used in the program with their purpose are given below:
+
+```
+def add_chr(self, char, btn=None):
+        """
+        Concatenates a character passed from a button press (or key type)
+        to a string.
+        :param char: string to add passed from a button
+        :param btn: button name to use if key is pressed (to flash)
+        :return: None
+		"""
+    
+```
+```
+
+def clear(self):
+        """
+        Allows user to backspace their entry.
+        :return: None
+        """
+```
+```
+def clear_all(self):
+        """
+        Allows user to clear the full entry.
+        :return: None
+        """
+```
+```
+def calculate(self):
+        """
+        Changes the operation symbols to their mathematical representation used in
+        the eval() method.
+        :return: None
+        """
+        
+```
+```
+def flash(self,btn):
+        """
+        Flashes a corresponding button when key is pressed.
+        :param btn: button
+        :return: None
+        """
+```
+```
+def bind_buttons(self, master):
+        """
+        Binds keys to their appropriate input
+        :param master: root.Tk()
+        :return: None
+        """
+```	
+```
+def create_widgets(self, master):
+        """
+        Creates the widgets to be used in the grid.
+        :return: None
+        """
+```
+
 ## Tests
 
 ---
