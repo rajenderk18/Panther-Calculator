@@ -148,10 +148,10 @@ Reach out to me at one of the following places!
 
 | Payment Method | Payment Link |
 | --- | --- |
-| PayPal | ![PayPal](https://user-images.githubusercontent.com/35782113/63217312-24a6e400-c112-11e9-9eef-cc1a0bf69747.jpg) |
-| Patreon |<p align="center"><a href="https://www.patreon.com/bePatron?u=23393229"><img src="https://user-images.githubusercontent.com/35782113/63217315-253f7a80-c112-11e9-8aed-aa70e001c3d9.png"></a>|
-| £ (GBP) |![£ (GBP)l](https://user-images.githubusercontent.com/35782113/63217313-24a6e400-c112-11e9-8c54-a0d8ede0c0b9.png) |
-| € Euros	 | ![€ Euros](https://user-images.githubusercontent.com/35782113/63217313-24a6e400-c112-11e9-8c54-a0d8ede0c0b9.png) |
+| PayPal |  <a href="https://www.buymeacoffee.com/rajenderk18" target="_blank"><img src="https://user-images.githubusercontent.com/35782113/63217312-24a6e400-c112-11e9-9eef-cc1a0bf69747.jpg" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>|
+| Patreon |<p align="center"><a href="https://www.patreon.com/bePatron?u=23393229" target="_blank"><img src="https://user-images.githubusercontent.com/35782113/63217315-253f7a80-c112-11e9-8aed-aa70e001c3d9.png"></a>|
+| £ (GBP) | <a href="https://www.buymeacoffee.com/rajenderk18" target="_blank"><img src="https://user-images.githubusercontent.com/35782113/63217313-24a6e400-c112-11e9-8c54-a0d8ede0c0b9.png)" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> |
+| € Euros	 |<a href="https://www.buymeacoffee.com/rajenderk18" target="_blank"><img src="https://user-images.githubusercontent.com/35782113/63217313-24a6e400-c112-11e9-8c54-a0d8ede0c0b9.png)" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> |
 | ₹ (INR) |![INR](https://user-images.githubusercontent.com/35782113/63217311-24a6e400-c112-11e9-896d-debe0ce54dab.png) |
 | Buy Me a Coffee |<a href="https://www.buymeacoffee.com/rajenderk18" target="_blank"><img src="https://user-images.githubusercontent.com/35782113/63219307-f8548d00-c13c-11e9-809d-0c531dc1f0d2.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> |
 
@@ -161,7 +161,7 @@ Reach out to me at one of the following places!
 &nbsp;
 
 <p align="center">
-  <a href="https://www.patreon.com/bePatron?u=23393229">
+  <a href="https://www.patreon.com/bePatron?u=23393229" target="_blank">
   <img width="300" height="125" src="https://user-images.githubusercontent.com/35782113/63217310-24a6e400-c112-11e9-9fb6-2d7f6ec2f143.jpg">
     </a>
 </p>
