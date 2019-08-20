@@ -93,6 +93,17 @@ python calculator.py
 
 ---
 ## Building the Windows installer
+
+I use the pyinstaller for building the window installer for the calculator. You can install the pyinstaller by using the following command:
+```
+pip install pyinstaller
+```
+You will need pip to install the pyinstaller. After installing the pyinstaller, you have to run this command to create the window installer (.exe file) for the calculator:
+```
+pyinstaller --onefile -w calculator.py
+```
+When the command executed completely, you will see two folders (build and dist) in the folder of your project. Build folder contains the binary of your calculator program and you don't need them. Your installer (.exe file) is in the dist folder. Double click on it to check whether it is running or not.
+
 ---
 
 ## Features
@@ -108,6 +119,11 @@ python calculator.py
 ![Calculator in use](https://user-images.githubusercontent.com/35782113/63217309-18228b80-c112-11e9-9969-265061dae03c.gif)
 
 ## Executable
+
+#### Version: v0.1
+
+You can download the executable for window from here: <a href="https://github.com/rajenderk18/Panther-Calculator/releases/download/v0.1/Panther_Calculator_v01.exe">Panther_Calculator_v01.exe</a>
+
 ## To-do
   - [ ] Need to work on Scientific Calculator
   - [ ] Impelent the different themes for the GUI
